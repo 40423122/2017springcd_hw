@@ -27,7 +27,7 @@
 <v t="yen.20170215103332.1"><vh>@edit base.html</vh></v>
 </v>
 </v>
-<v t="yen.20170120110024.1"><vh>@clean index.html</vh>
+<v t="yen.20170120110024.1" a="E"><vh>@clean index.html</vh>
 <v t="yen.20170120110024.2" a="E"><vh>html</vh>
 <v t="yen.20170120110024.3"><vh>head</vh></v>
 <v t="yen.20170120110024.4" a="E"><vh>body</vh>
@@ -56,11 +56,12 @@
 </v>
 </v>
 <v t="yen.20170108171733.71" a="E"><vh>@path content</vh>
-<v t="yen.20170123225841.1"><vh>@edit 20170302.md</vh></v>
+<v t="yen.20170123225841.1"><vh>@edit 20170223.md</vh></v>
+<v t="leo.20170404183828.1"><vh>@edit 20170302.md</vh></v>
 <v t="leo.20170404175412.1"><vh>@edit 20170309.md</vh></v>
 <v t="leo.20170404182133.1"><vh>@edit 20170316.md</vh></v>
 <v t="leo.20170404182134.1"><vh>@edit 20170323.md</vh></v>
-<v t="yen.20170207091131.1" a="E"><vh>@clean 20170207.md</vh>
+<v t="yen.20170207091131.1"><vh>@clean 20170207.md</vh>
 <v t="yen.20170207091131.2"><vh>ex1 - for 迴圈</vh></v>
 <v t="yen.20170207091131.3"><vh>ex2 - input 與單位換算</vh></v>
 <v t="yen.20170207091131.4"><vh>filereader</vh></v>
@@ -420,15 +421,13 @@ make.start()
 
 						
 </t>
-<t tx="yen.20170120110024.8">## 2017Spring 協同產品設計實習
+<t tx="yen.20170120110024.8">## 2017 springcd協同產品設計實習
 
-### 虎科大機械設計工程系
+### 設計二甲 40423122 林國蓁
 
 &lt;small&gt;
-Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
+Created by [40423122 blog](https://40423122.github.io/2017springcd_hw/blog/)
 &lt;/small&gt;
-
-[協同產品設計實習課程網誌](blog/index.html)
 
 
 </t>
