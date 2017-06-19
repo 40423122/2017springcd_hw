@@ -1,5 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-06-01T00:00:00+08:00</updated><entry><title>2017.06.01</title><link href="./20170601.html" rel="alternate"></link><published>2017-06-01T00:00:00+08:00</published><updated>2017-06-01T00:00:00+08:00</updated><author><name>40423122</name></author><id>tag:,2017-06-01:./20170601.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-06-19T00:00:00+08:00</updated><entry><title>期末影片總覽</title><link href="./qi-mo-ying-pian-zong-lan.html" rel="alternate"></link><published>2017-06-19T00:00:00+08:00</published><updated>2017-06-19T00:00:00+08:00</updated><author><name>40423122</name></author><id>tag:,2017-06-19:./qi-mo-ying-pian-zong-lan.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h3&gt;影片-1&lt;/h3&gt;
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/222140864" width="640" height="296" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/222140864"&gt;40423122_draw 8links&lt;/a&gt; from &lt;a href="https://vimeo.com/user61599842"&gt;LIN KUO JEN&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;h3&gt;影片-2&lt;/h3&gt;
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/222140982" width="640" height="299" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/222140982"&gt;40423122_check the trace point&lt;/a&gt; from &lt;a href="https://vimeo.com/user61599842"&gt;LIN KUO JEN&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;h3&gt;影片-3&lt;/h3&gt;
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/222141044" width="640" height="296" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/222141044"&gt;40423122_draw and assemble 4bars 4feet walker&lt;/a&gt; from &lt;a href="https://vimeo.com/user61599842"&gt;LIN KUO JEN&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;h3&gt;影片-4&lt;/h3&gt;
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/222141345" width="640" height="296" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/222141345"&gt;40423122_draw 4links&lt;/a&gt; from &lt;a href="https://vimeo.com/user61599842"&gt;LIN KUO JEN&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;h3&gt;影片-5&lt;/h3&gt;
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/222141466" width="640" height="296" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/222141466"&gt;40423122_find ip and modify stunnel&lt;/a&gt; from &lt;a href="https://vimeo.com/user61599842"&gt;LIN KUO JEN&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;h3&gt;影片-6&lt;/h3&gt;
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/222141480" width="640" height="296" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/222141480"&gt;40423122_draw Fourbar Walker&lt;/a&gt; from &lt;a href="https://vimeo.com/user61599842"&gt;LIN KUO JEN&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;h3&gt;影片-7&lt;/h3&gt;
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/222141529" width="640" height="296" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/222141529"&gt;40423122_one link vrep&lt;/a&gt; from &lt;a href="https://vimeo.com/user61599842"&gt;LIN KUO JEN&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;h3&gt;影片-8&lt;/h3&gt;
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/222141551" width="640" height="296" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/222141551"&gt;40423122_draw onelink&lt;/a&gt; from &lt;a href="https://vimeo.com/user61599842"&gt;LIN KUO JEN&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;h3&gt;影片-9&lt;/h3&gt;
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/222141589" width="640" height="296" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/222141589"&gt;40423122_4links vrep&lt;/a&gt; from &lt;a href="https://vimeo.com/user61599842"&gt;LIN KUO JEN&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;h3&gt;影片-10&lt;/h3&gt;
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/222143035" width="640" height="329" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/222143035"&gt;40423122_write add.py print.py&lt;/a&gt; from &lt;a href="https://vimeo.com/user61599842"&gt;LIN KUO JEN&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;h3&gt;影片-11&lt;/h3&gt;
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/222143051" width="640" height="329" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/222143051"&gt;40423122_write mul.py print.py&lt;/a&gt; from &lt;a href="https://vimeo.com/user61599842"&gt;LIN KUO JEN&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;h3&gt;影片-12&lt;/h3&gt;
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/222175350" width="640" height="296" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/222175350"&gt;40423122_8link assemble&lt;/a&gt; from &lt;a href="https://vimeo.com/user61599842"&gt;LIN KUO JEN&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;h3&gt;影片-13&lt;/h3&gt;
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/222175548" width="640" height="296" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/222175548"&gt;40423122_fourbar draw and assemble&lt;/a&gt; from &lt;a href="https://vimeo.com/user61599842"&gt;LIN KUO JEN&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="w18"></category></entry><entry><title>2017.06.01</title><link href="./20170601.html" rel="alternate"></link><published>2017-06-01T00:00:00+08:00</published><updated>2017-06-01T00:00:00+08:00</updated><author><name>40423122</name></author><id>tag:,2017-06-01:./20170601.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
 
