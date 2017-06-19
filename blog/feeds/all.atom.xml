@@ -1,45 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-06-19T00:00:00+08:00</updated><entry><title>期末影片總覽</title><link href="./qi-mo-ying-pian-zong-lan.html" rel="alternate"></link><published>2017-06-19T00:00:00+08:00</published><updated>2017-06-19T00:00:00+08:00</updated><author><name>40423122</name></author><id>tag:,2017-06-19:./qi-mo-ying-pian-zong-lan.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
-&lt;h3&gt;影片-1&lt;/h3&gt;
-&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/222140864" width="640" height="296" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/222140864"&gt;40423122_draw 8links&lt;/a&gt; from &lt;a href="https://vimeo.com/user61599842"&gt;LIN KUO JEN&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-&lt;h3&gt;影片-2&lt;/h3&gt;
-&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/222140982" width="640" height="299" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/222140982"&gt;40423122_check the trace point&lt;/a&gt; from &lt;a href="https://vimeo.com/user61599842"&gt;LIN KUO JEN&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-&lt;h3&gt;影片-3&lt;/h3&gt;
-&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/222141044" width="640" height="296" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/222141044"&gt;40423122_draw and assemble 4bars 4feet walker&lt;/a&gt; from &lt;a href="https://vimeo.com/user61599842"&gt;LIN KUO JEN&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-&lt;h3&gt;影片-4&lt;/h3&gt;
-&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/222141345" width="640" height="296" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/222141345"&gt;40423122_draw 4links&lt;/a&gt; from &lt;a href="https://vimeo.com/user61599842"&gt;LIN KUO JEN&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-&lt;h3&gt;影片-5&lt;/h3&gt;
-&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/222141466" width="640" height="296" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/222141466"&gt;40423122_find ip and modify stunnel&lt;/a&gt; from &lt;a href="https://vimeo.com/user61599842"&gt;LIN KUO JEN&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-&lt;h3&gt;影片-6&lt;/h3&gt;
-&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/222141480" width="640" height="296" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/222141480"&gt;40423122_draw Fourbar Walker&lt;/a&gt; from &lt;a href="https://vimeo.com/user61599842"&gt;LIN KUO JEN&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-&lt;h3&gt;影片-7&lt;/h3&gt;
-&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/222141529" width="640" height="296" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/222141529"&gt;40423122_one link vrep&lt;/a&gt; from &lt;a href="https://vimeo.com/user61599842"&gt;LIN KUO JEN&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-&lt;h3&gt;影片-8&lt;/h3&gt;
-&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/222141551" width="640" height="296" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/222141551"&gt;40423122_draw onelink&lt;/a&gt; from &lt;a href="https://vimeo.com/user61599842"&gt;LIN KUO JEN&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-&lt;h3&gt;影片-9&lt;/h3&gt;
-&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/222141589" width="640" height="296" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/222141589"&gt;40423122_4links vrep&lt;/a&gt; from &lt;a href="https://vimeo.com/user61599842"&gt;LIN KUO JEN&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-&lt;h3&gt;影片-10&lt;/h3&gt;
-&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/222143035" width="640" height="329" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/222143035"&gt;40423122_write add.py print.py&lt;/a&gt; from &lt;a href="https://vimeo.com/user61599842"&gt;LIN KUO JEN&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-&lt;h3&gt;影片-11&lt;/h3&gt;
-&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/222143051" width="640" height="329" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/222143051"&gt;40423122_write mul.py print.py&lt;/a&gt; from &lt;a href="https://vimeo.com/user61599842"&gt;LIN KUO JEN&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-&lt;h3&gt;影片-12&lt;/h3&gt;
-&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/222175350" width="640" height="296" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/222175350"&gt;40423122_8link assemble&lt;/a&gt; from &lt;a href="https://vimeo.com/user61599842"&gt;LIN KUO JEN&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-&lt;h3&gt;影片-13&lt;/h3&gt;
-&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/222175548" width="640" height="296" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/222175548"&gt;40423122_fourbar draw and assemble&lt;/a&gt; from &lt;a href="https://vimeo.com/user61599842"&gt;LIN KUO JEN&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="w18"></category></entry><entry><title>2017.06.01</title><link href="./20170601.html" rel="alternate"></link><published>2017-06-01T00:00:00+08:00</published><updated>2017-06-01T00:00:00+08:00</updated><author><name>40423122</name></author><id>tag:,2017-06-01:./20170601.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;h3&gt;影片1(fourbar draw and assemble )&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;&lt;font color="red"&gt;要記得兩個底座要互相拘束,而其中一個要跟圖中的座標互相拘束,這次就是這邊卡了很久&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/222140864" width="640" height="296" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/222140864"&gt;40423122_draw 8links&lt;/a&gt; from &lt;a href="https://vimeo.com/user61599842"&gt;LIN KUO JEN&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;影片2(8link assemble)&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;&lt;font color="red"&gt;因為八連桿的長度都很像還有前後位置比較複雜,所以組合上稍微困難了一點&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/222140982" width="640" height="299" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/222140982"&gt;40423122_check the trace point&lt;/a&gt; from &lt;a href="https://vimeo.com/user61599842"&gt;LIN KUO JEN&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;影片3(write mul.py print.py)&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;&lt;font color="red"&gt;這次是寫出相乘的程式,覺得程式好像還蠻難理解的,看不太懂,還有很多學習的空間&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/222141044" width="640" height="296" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/222141044"&gt;40423122_draw and assemble 4bars 4feet walker&lt;/a&gt; from &lt;a href="https://vimeo.com/user61599842"&gt;LIN KUO JEN&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;影片4(write add.py print.py)&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;&lt;font color="red"&gt;寫出讓數字相加的程式,很新鮮覺得很厲害,但還不太清楚他運作的原理&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/222141345" width="640" height="296" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/222141345"&gt;40423122_draw 4links&lt;/a&gt; from &lt;a href="https://vimeo.com/user61599842"&gt;LIN KUO JEN&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;影片5(4links vrep)&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;&lt;font color="red"&gt;把4links 丟上v rep就可以看,這個零件如何運作以及學習如何修改相關設定&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/222141466" width="640" height="296" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/222141466"&gt;40423122_find ip and modify stunnel&lt;/a&gt; from &lt;a href="https://vimeo.com/user61599842"&gt;LIN KUO JEN&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;影片6(draw onelink)&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;&lt;font color="red"&gt;利用solve space組合零件還不太熟悉,有很大的進步空間&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/222141480" width="640" height="296" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/222141480"&gt;40423122_draw Fourbar Walker&lt;/a&gt; from &lt;a href="https://vimeo.com/user61599842"&gt;LIN KUO JEN&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;影片7(one link vrep)&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;&lt;font color="red"&gt;把one link零件丟上v rep了,可以看這個零件如何有相對的運動&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/222141529" width="640" height="296" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/222141529"&gt;40423122_one link vrep&lt;/a&gt; from &lt;a href="https://vimeo.com/user61599842"&gt;LIN KUO JEN&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;影片8(draw Fourbar Walker)&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;&lt;font color="red"&gt;還可以再更熟練一點,尤其有時候會有錯誤,要釐清觀念&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/222141551" width="640" height="296" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/222141551"&gt;40423122_draw onelink&lt;/a&gt; from &lt;a href="https://vimeo.com/user61599842"&gt;LIN KUO JEN&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;影片9(find ip and modify stunnel)&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;&lt;font color="red"&gt;find ip and modify stunnel以前都不知道電腦的ip怎麼找,這次學到了如和尋找以及修改程式中舊有的ip數值&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/222141589" width="640" height="296" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/222141589"&gt;40423122_4links vrep&lt;/a&gt; from &lt;a href="https://vimeo.com/user61599842"&gt;LIN KUO JEN&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;影片10(draw 4links)&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;&lt;font color="red"&gt; 繪圖上沒甚麼困難,但是組合上要記得,哪些自由度還沒拘束,該拘束哪裡,還需要多多練習&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/222143035" width="640" height="329" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/222143035"&gt;40423122_write add.py print.py&lt;/a&gt; from &lt;a href="https://vimeo.com/user61599842"&gt;LIN KUO JEN&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;影片11(draw and assemble 4bars 4feet walker)&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;&lt;font color="red"&gt;繪畫上可以再更熟練,還不熟悉,組合方面的話,常常會忘記一些小的零件還有先後順序,動畫上也不熟悉&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/222143051" width="640" height="329" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/222143051"&gt;40423122_write mul.py print.py&lt;/a&gt; from &lt;a href="https://vimeo.com/user61599842"&gt;LIN KUO JEN&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;影片12(check the trace point)&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;&lt;font color="red"&gt;對於solve space路徑的操作比較不熟練,但繪畫上面還算簡單&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/222175350" width="640" height="296" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/222175350"&gt;40423122_8link assemble&lt;/a&gt; from &lt;a href="https://vimeo.com/user61599842"&gt;LIN KUO JEN&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;影片13(draw 8links)&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;&lt;font color="red"&gt;繪畫方面沒有什麼困難的地方,都還算簡單,但是要再熟練一點&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/222175548" width="640" height="296" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/222175548"&gt;40423122_fourbar draw and assemble&lt;/a&gt; from &lt;a href="https://vimeo.com/user61599842"&gt;LIN KUO JEN&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="w18"></category></entry><entry><title>2017.06.01</title><link href="./20170601.html" rel="alternate"></link><published>2017-06-01T00:00:00+08:00</published><updated>2017-06-01T00:00:00+08:00</updated><author><name>40423122</name></author><id>tag:,2017-06-01:./20170601.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
 
