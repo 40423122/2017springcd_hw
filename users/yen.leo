@@ -189,8 +189,6 @@ import os
 #os.system("pelican content -o output -s local_publishconf.py -t theme/pelican-bootstrap3")
 os.system("pelican content -o blog -s local_publishconf.py")
 g.es("admin pelican 近端執行完畢")
-
-
 </t>
 <t tx="yen.20170108171733.5"></t>
 <t tx="yen.20170108171733.71"></t>
